@@ -4,5 +4,5 @@
 3. <b>Groups</b> only contain users, not other groups
 4. <b>Users</b> don’t have to belong to a group, and user can belong to multiple groups
 
-![UserGroup1](image.png)
+![UserGroup1](usergroup1.png)
 
